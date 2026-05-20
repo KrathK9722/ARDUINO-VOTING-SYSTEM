@@ -1,4 +1,4 @@
-````md
+
 # 📟 Arduino LCD Voting System
 
 An embedded voting system prototype developed using Arduino, push buttons, LEDs, and an I2C LCD display.  
@@ -22,7 +22,7 @@ The project simulates a digital voting machine capable of counting votes in real
 - Digital Electronics
 
 ## 🔗 Online Simulation
-https://www.tinkercad.com/things/3JEgzBsuaYO-trabalho-arthur-henrique-lcd?sharecode=Ul8mdHHD3B2uZ8mD3XpBoS6NvlNMdnEbQgAwsHI7-P0
+<link>[https://www.tinkercad.com/things/3JEgzBsuaYO-trabalho-arthur-henrique-lcd?sharecode=Ul8mdHHD3B2uZ8mD3XpBoS6NvlNMdnEbQgAwsHI7-P0]
 
 ## 💽 Hardware Components
 - Arduino Uno
@@ -47,4 +47,3 @@ This project was created to study embedded systems logic, digital input handling
 
 ## 📜 License
 This project is licensed under the MIT License.
-````
