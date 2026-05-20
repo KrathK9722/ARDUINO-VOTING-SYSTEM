@@ -4,7 +4,7 @@
 An embedded voting system prototype developed using Arduino, push buttons, LEDs, and an I2C LCD display.  
 The project simulates a digital voting machine capable of counting votes in real time and displaying results directly on the LCD interface.
 
-## 🚀 Features
+## ⚙️ Features
 - Real-time vote counting
 - LCD result display
 - Multiple candidate buttons
@@ -24,15 +24,7 @@ The project simulates a digital voting machine capable of counting votes in real
 ## 🔗 Online Simulation
 https://www.tinkercad.com/things/3JEgzBsuaYO-trabalho-arthur-henrique-lcd?sharecode=Ul8mdHHD3B2uZ8mD3XpBoS6NvlNMdnEbQgAwsHI7-P0
 
-## 📂 Project Structure
-
-```txt
-code/
-README.md
-images/
-```
-
-## ⚙ Hardware Components
+## 💽 Hardware Components
 - Arduino Uno
 - I2C LCD 16x2
 - Push Buttons
@@ -52,14 +44,6 @@ The reset button finalizes the election, checks the winner or tie condition, dis
 
 ## 📌 Purpose
 This project was created to study embedded systems logic, digital input handling, LCD communication, and hardware interaction using Arduino.
-
-## 🔮 Future Improvements
-- EEPROM vote storage
-- Password-protected admin mode
-- Sound feedback with buzzer
-- Wireless voting system
-- Web dashboard integration
-- OLED display support
 
 ## 📜 License
 This project is licensed under the MIT License.
