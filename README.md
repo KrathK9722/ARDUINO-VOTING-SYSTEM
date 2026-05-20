@@ -22,7 +22,7 @@ The project simulates a digital voting machine capable of counting votes in real
 - Digital Electronics
 
 ## 🔗 Online Simulation
-Check out my portfolio [here](https://www.tinkercad.com/things/3JEgzBsuaYO-trabalho-arthur-henrique-lcd?sharecode=Ul8mdHHD3B2uZ8mD3XpBoS6NvlNMdnEbQgAwsHI7-P0).
+Check the simulation [here](https://www.tinkercad.com/things/3JEgzBsuaYO-trabalho-arthur-henrique-lcd?sharecode=Ul8mdHHD3B2uZ8mD3XpBoS6NvlNMdnEbQgAwsHI7-P0).
 ## 💽 Hardware Components
 - Arduino Uno
 - I2C LCD 16x2
